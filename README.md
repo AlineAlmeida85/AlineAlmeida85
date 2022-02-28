@@ -49,8 +49,9 @@
 ### 🥰 Apaixonada por Programação!
 
 
-<div align="center"> 🐍🐍 
-    ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg) 
+<div align="center">
+  <img src="https://gpvc.arturio.dev/iurygdeoliveira" alt="profile views">
+
 </div>
 </div>
 
