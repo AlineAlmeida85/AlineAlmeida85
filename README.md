@@ -7,7 +7,7 @@
 ##### O aprendizado realmente nos transforma, estou tendo a oportunidade de cursar Sistemas de Informação e, com certeza, esse grande passo realmente mudou a minha vida, minha realidade social e econômica e minha forma de encarar o mundo! Me dedico muito aos estudos mas também a minha casa e minha família. Amo aprender, amo essa minha nova realidade e amo pensar no meu futuro e me imaginar num bom emprego.
 <br>
 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5511990071118)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5511990071118 target="_blank")
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aline-andrade-de-almeida-25a78224/)
 [![Meu Portfólio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://x5fqvcdvjxzzszwgczoiig-on.drv.tw/portfolio/templates/)
