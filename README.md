@@ -50,8 +50,7 @@
 
 
 <div align="center">
-  <img src="https://gpvc.arturio.dev/iurygdeoliveira" alt="profile views">
-
+  <img src="https://gpvc.arturio.dev/AlineAlmeida85" alt="profile views">
 </div>
 </div>
 
