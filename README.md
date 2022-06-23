@@ -10,7 +10,7 @@
 <a href="https://api.whatsapp.com/send/?phone=5511990071118" target="_blank">
   <img align="center" src="https://img.icons8.com/color/48/000000/whatsapp--v6.png" alt="" height="40" width="40"/>
 </a>
-<a href="https://www.linkedin.com/in/aline-andrade-de-almeida-25a78224/" target="_blank">
+<a href="https://www.linkedin.com/in/aline-melissa-andrade-de-almeida-25a78224/" target="_blank">
   <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="" height="40" width="40" /></a><a href="https://x5fqvcdvjxzzszwgczoiig-on.drv.tw/portfolio/templates/" target="_blank"><img align="center" src="https://img.icons8.com/external-kmg-design-flat-kmg-design/32/000000/external-profile-ui-essential-kmg-design-flat-kmg-design.png" alt="" height="35" width="35" /></a>
 
 
